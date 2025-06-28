@@ -1,4 +1,4 @@
-// src/services/coingeckoService.js
+// src/services/coingecko.js
 const fetch = require("node-fetch");
 
 
