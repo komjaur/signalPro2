@@ -1,0 +1,8 @@
+# Node basics
+node_modules
+.env
+
+# Local keys / secrets
+config/
+# Ignore keys.env file
+src/config/keys.env
